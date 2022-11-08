@@ -1,13 +1,13 @@
 # Uplandwave
 
-**`Digital Wizerd (Leader | Creator | Student)`**
+**`Cyber Wizerd (Leader | Creator | Student)`**
 
 I am a digital developer and cybersecurity security student. I create side projects to make my life easier and also create anything that makes me happy. Here on my github you will find all the fun projects I work on in my free time to keep me busy outside of my security day job and classes. If you see something you like clone it and make it your own. 
 ---
 
 ### Languages and Tools I've used
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/arch-linux.svg"/>
+<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/arch-linux.svg"/> -->
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
