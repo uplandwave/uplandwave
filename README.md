@@ -13,7 +13,9 @@ This is my [website](https://uplandwave.github.io/) if you want to see some more
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=uplandwave&theme=&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uplandwave&theme=&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uplandwave&theme=&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Random Quote
