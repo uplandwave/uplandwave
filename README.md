@@ -18,8 +18,8 @@ This is my [website](https://uplandwave.github.io/) if you want to see some more
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uplandwave&theme=&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Random Quote
-The only thing we have to fear is fear itself.  <br> -Franklin D. Roosevelt
+## Random Quote
+####The only thing we have to fear is fear itself.  <br> -Franklin D. Roosevelt
 
 
 <!-- # Uplandwave
