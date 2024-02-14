@@ -1,7 +1,7 @@
 # About Me:
 Uplandwave --  Leader | Developer | Problem Solver
 
-I'm Uplandwave, a junior studying Software Engineering student at BYU-Idaho. I am passionate about cybersecurity and bridging the gap between business and technology.I create side projects to make my life easier and also create anything that makes me happy. Currently, I have been building mobile apps in react native and exploring game development in Unity. If you see something you like clone it and make it your own.
+I'm Uplandwave, a junior studying Software Engineering student at BYU-Idaho. I am passionate about cybersecurity and bridging the gap between business and technology. I create side projects to make my life easier and also create anything that makes me happy. Currently, I have been building mobile apps in react native and exploring game development in Unity. If you see something you like clone it and make it your own.
 
 
 This is my [website](https://uplandwave.github.io/) if you want to see some more cool stuff.
