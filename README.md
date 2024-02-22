@@ -2,7 +2,7 @@
 
 Uplandwave -- Leader | Developer | Problem Solver
 
-Alright boom I'm Uplandwave, reppin' Software Engineering at BYU-Idaho. Straight up, I'm all about cybersecurity, making moves to keep tech tight for businesses. I stay grindin' on side projects, problem-solvin' and livin' it up. Raindrop, drop top, I'm all about makin' things pop. Recently, I've been cookin' up in React Native, makin' mobile apps that make heads turn. And when it comes to game dev, I'm all 'Versace, Versace, Medusa head on me.' Unity's my playground, where I'm mixin' code with creativity.
+Alright boom, I'm Uplandwave, reppin' Software Engineering at BYU-Idaho. I'm all about keeping cybersecurity on lock and implementing tech solutions to keep businesses on point. I stay grindin' on side projects, problem-solvin' and livin' it up. Raindrop, drop top, I'm all about makin' things pop. Recently, I've been cookin' up in React Native, makin' mobile apps that make heads turn. And when it comes to game dev, Unity's my playground, where I'm mixin' code with creativity.
 
 <!-- Hey, I'm Uplandwave, a Software Engineering student at BYU-Idaho. My passion lies in cybersecurity and making tech work seamlessly for businesses. I tinker with side projects fixing real-world problems and having a blast while doing it. I'm always on the lookout for opportunities to innovate. Recently, I've been diving into React Native for mobile apps and messing around with Unity for game development. Check out my stuff, borrow it, tweak it – make it your own. -->
 
