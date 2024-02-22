@@ -1,10 +1,12 @@
 # About Me:
-Uplandwave --  Leader | Developer | Problem Solver
 
-Hey, I'm Uplandwave, a Software Engineering student at BYU-Idaho. My passion lies in cybersecurity and making tech work seamlessly for businesses. I tinker with side projects fixing real-world problems and having a blast while doing it. I'm always on the lookout for opportunities to innovate. Recently, I've been diving into React Native for mobile apps and messing around with Unity for game development. Check out my stuff, borrow it, tweak it – make it your own.
+Uplandwave -- Leader | Developer | Problem Solver
+
+Alright boom I'm Uplandwave, reppin' Software Engineering at BYU-Idaho. Straight up, I'm all about cybersecurity, making moves to keep tech tight for businesses. I stay grindin' on side projects, problem-solvin' and livin' it up. Raindrop, drop top, I'm all about makin' things pop. Recently, I've been cookin' up in React Native, makin' mobile apps that make heads turn. And when it comes to game dev, I'm all 'Versace, Versace, Medusa head on me.' Unity's my playground, where I'm mixin' code with creativity.
+
+<!-- Hey, I'm Uplandwave, a Software Engineering student at BYU-Idaho. My passion lies in cybersecurity and making tech work seamlessly for businesses. I tinker with side projects fixing real-world problems and having a blast while doing it. I'm always on the lookout for opportunities to innovate. Recently, I've been diving into React Native for mobile apps and messing around with Unity for game development. Check out my stuff, borrow it, tweak it – make it your own. -->
 
 <!-- I'm Uplandwave, a junior studying Software Engineering at BYU-Idaho. I am passionate about cybersecurity and bridging the gap between business and technology. I create side projects to make my life easier and also create anything that makes me happy. Currently, I have been building mobile apps in react native and exploring game development in Unity. If you see something you like clone it and make it your own. -->
-
 
 This is my [website](https://uplandwave.github.io/) if you want to see some more cool stuff.
 
@@ -21,8 +23,8 @@ This is my [website](https://uplandwave.github.io/) if you want to see some more
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uplandwave&theme=&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Random Quote
-The only thing we have to fear is fear itself.  <br> -Franklin D. Roosevelt
 
+The only thing we have to fear is fear itself. <br> -Franklin D. Roosevelt
 
 <!-- # Uplandwave
 
