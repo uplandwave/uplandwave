@@ -34,8 +34,6 @@ I'm **Uplandwave**, a Software Engineering student at BYU-Idaho. I'm love **cybe
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=uplandwave&color=brightgreen)
 
-![GitHub Snake](https://github.com/uplandwave/uplandwave/blob/output/github-contribution-grid-snake.svg)
-
 ### Connect with Me
 - [Portfolio](https://uplandwave.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/luke--briggs/)
