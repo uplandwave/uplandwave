@@ -3,8 +3,8 @@
 **`AI - Software Engineer - Cybersecurity`**
 **`(Leader | Creator | Open Source)`**
 
-Open source is a thankless job. We do it anyway. 
-	-Scott Hanselman
+### "Open source is a thankless job. We do it anyway." <br>
+**- Scott Hanselman** 
 
 ### Certs
 - **Networking+**
